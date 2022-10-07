@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheglobalTummy
+- 👋 Hi, I’m Soham
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Backend/Games
